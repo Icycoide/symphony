@@ -241,13 +241,13 @@ msgstr ""
 
 #: data/org.gnome.epiphany.gschema.xml:103
 msgid "Start in incognito mode"
-msgstr "Start in incognito mode"
+msgstr "Start in sussy private mode"
 
 #: data/org.gnome.epiphany.gschema.xml:104
 msgid ""
 "When this option is set to true, browser will always start in incognito mode"
 msgstr ""
-"When this option is set to true, browser will always start in incognito mode"
+"When this option is set to true, browser will always start in sussy private mode"
 
 #: data/org.gnome.epiphany.gschema.xml:108
 msgid "Active clear data items."
@@ -262,9 +262,9 @@ msgid ""
 "Prevention data."
 msgstr ""
 "Selection (bitmask) which clear data items should be active by default. 1 = "
-"Cookies, 2 = HTTP disk cache, 4 = Local storage data, 8 = Offline web "
+"Biscuits, 2 = HTTP disk cache, 4 = Local storage data, 8 = Offline web "
 "application cache, 16 = IndexDB databases, 32 = WebSQL databases, 64 = "
-"Plugins data, 128 = HSTS policies cache, 256 = Intelligent Tracking "
+"Plugins data, 128 = HSTS policies cache, 256 = Smart Tracking "
 "Prevention data."
 
 #: data/org.gnome.epiphany.gschema.xml:115
@@ -1964,7 +1964,7 @@ msgstr ""
 
 #: embed/ephy-web-view.c:2276
 msgid "None specified"
-msgstr "None specified"
+msgstr "No specification?"
 
 #: embed/ephy-web-view.c:2407
 msgid "Technical information"
@@ -4360,7 +4360,7 @@ msgstr "_Enable"
 #~ msgstr "Search cookies"
 
 #~ msgid "There are no Cookies"
-#~ msgstr "There are no Cookies"
+#~ msgstr "No biscuits?"
 
 #~ msgid "Cookies left by visited pages will be listed here"
 #~ msgstr "Cookies left by visited pages will be listed here"
@@ -4771,7 +4771,7 @@ msgstr "_Enable"
 #~ msgstr "_About"
 
 #~ msgid "_Quit"
-#~ msgstr "_Quit"
+#~ msgstr "_Escape this madness"
 
 #~ msgid "Date"
 #~ msgstr "Date"
@@ -4899,7 +4899,7 @@ msgstr "_Enable"
 #~ msgstr "Past developers:"
 
 #~ msgid "Epiphany Web Browser"
-#~ msgstr "Epiphany Web Browser"
+#~ msgstr "Symphony Web Battle Ship"
 
 #~ msgid "'https://duckduckgo.com/?q=%s&amp;t=epiphany'"
 #~ msgstr "'https://duckduckgo.com/?q=%s&amp;t=epiphany'"
@@ -5046,7 +5046,7 @@ msgstr "_Enable"
 
 #~ msgctxt "bookmarks"
 #~ msgid "Not Categorized"
-#~ msgstr "Not Categorised"
+#~ msgstr "No categorisation?"
 
 #~ msgctxt "bookmarks"
 #~ msgid "Nearby Sites"
@@ -5263,7 +5263,7 @@ msgstr "_Enable"
 #~ msgstr "_Engine:"
 
 #~ msgid "_Tell websites I do not want to be tracked"
-#~ msgstr "_Tell websites I do not want to be tracked"
+#~ msgstr "_Tell websites I do not want to be stalked"
 
 #~ msgid "Cl_ear Personal Data…"
 #~ msgstr "Cl_ear Personal Data…"
@@ -5424,7 +5424,7 @@ msgstr "_Enable"
 #~ msgstr "Whether to show the date-time column in the history window."
 
 #~ msgid "Epiphany can't be used now. Initialization failed."
-#~ msgstr "Epiphany can't be used now. Initialisation failed."
+#~ msgstr "Symphony can't be used now. Initialisation failed."
 
 #~ msgid ""
 #~ "<big>Would you like to store the password for <b>%s</b> in <b>%s</b>?</"
@@ -5451,7 +5451,7 @@ msgstr "_Enable"
 #~ "password below."
 #~ msgstr ""
 #~ "The passwords from the previous version (Gecko) are locked with a master "
-#~ "password. If you want Epiphany to import them, please enter your master "
+#~ "password. If you want Symphony to import them, please enter your master "
 #~ "password below."
 
 #~ msgid "%u:%02u hour left"
@@ -5649,7 +5649,7 @@ msgstr "_Enable"
 #~ msgstr "Lists the active extensions."
 
 #~ msgid "File is not a valid .desktop file"
-#~ msgstr "File is not a valid .desktop file"
+#~ msgstr "No valid .desktop file?"
 
 #~ msgid "Unrecognized desktop file Version '%s'"
 #~ msgstr "Unrecognised desktop file Version '%s'"
@@ -5667,7 +5667,7 @@ msgstr "_Enable"
 #~ msgstr "Can't pass document URIs to a 'Type=Link' desktop entry"
 
 #~ msgid "Not a launchable item"
-#~ msgstr "Not a launchable item"
+#~ msgstr "No launchable item?"
 
 #~ msgid "Enable Java_Script"
 #~ msgstr "Enable Java_Script"
@@ -5777,7 +5777,7 @@ msgstr "_Enable"
 #~ msgstr "Update Bookmark?"
 
 #~ msgid "Epiphany Web Bookmarks"
-#~ msgstr "Epiphany Web Bookmarks"
+#~ msgstr "Web Bookmarks"
 
 #~ msgid "Certificate _Fields"
 #~ msgstr "Certificate _Fields"
@@ -6245,7 +6245,7 @@ msgstr "_Enable"
 #~ msgstr "Disable the user's ability to edit toolbars."
 
 #~ msgid "Disable the user's ability to type in a URL to Epiphany."
-#~ msgstr "Disable the user's ability to type in a URL to Epiphany."
+#~ msgstr "Disable the user's ability to type in a URL to Symphony."
 
 #~ msgid "Disable toolbar editing"
 #~ msgstr "Disable toolbar editing"
@@ -6261,7 +6261,7 @@ msgstr "_Enable"
 #~ "http and https."
 
 #~ msgid "Epiphany cannot quit"
-#~ msgstr "Epiphany cannot quit"
+#~ msgstr "Symphony cannot flee."
 
 #~ msgid "Hide menubar by default"
 #~ msgstr "Hide menubar by default"
@@ -6273,7 +6273,7 @@ msgstr "_Enable"
 #~ msgstr "Lock in fullscreen mode"
 
 #~ msgid "Locks Epiphany in fullscreen mode."
-#~ msgstr "Locks Epiphany in fullscreen mode."
+#~ msgstr "Locks Symphony in big screen mode."
 
 #~ msgid "Always show the tab bar"
 #~ msgstr "Always show the tab bar"
@@ -6528,19 +6528,19 @@ msgstr "_Enable"
 #~ msgstr "_Save As…"
 
 #~ msgid "Redirecting to “%s”…"
-#~ msgstr "Redirecting to “%s”…"
+#~ msgstr "Leading you to... to “%s”…"
 
 #~ msgid "Transferring data from “%s”…"
 #~ msgstr "Transferring data from “%s”…"
 
 #~ msgid "Waiting for authorization from “%s”…"
-#~ msgstr "Waiting for authorisation from “%s”…"
+#~ msgstr "Waiting for consent from “%s”…"
 
 #~ msgid ""
 #~ "Epiphany appears to have exited unexpectedly the last time it was run. "
 #~ "You can recover the opened windows and tabs."
 #~ msgstr ""
-#~ "Epiphany appears to have exited unexpectedly the last time it was run. "
+#~ "Symphony appears to have escaped your system somehow the last time it was run. "
 #~ "You can recover the opened windows and tabs."
 
 #~ msgid "Crash Recovery"
@@ -6677,10 +6677,10 @@ msgstr "_Enable"
 #~ msgstr "Unknown"
 
 #~ msgid "“%s” Protocol is not Supported"
-#~ msgstr "“%s” Protocol is not Supported"
+#~ msgstr "“%s” No supported protocol?"
 
 #~ msgid "“%s” protocol is not supported."
-#~ msgstr "“%s” protocol is not supported."
+#~ msgstr "“%s” No supported protocol?"
 
 #~ msgid ""
 #~ "Supported protocols are “http”, “https”, “ftp”, “file”, “smb” and “sftp”."
@@ -6688,13 +6688,13 @@ msgstr "_Enable"
 #~ "Supported protocols are “http”, “https”, “ftp”, “file”, “smb” and “sftp”."
 
 #~ msgid "File “%s” not Found"
-#~ msgstr "File “%s” not Found"
+#~ msgstr "No found file “%s”?"
 
 #~ msgid "File “%s” not found."
-#~ msgstr "File “%s” not found."
+#~ msgstr "No found file “%s”?"
 
 #~ msgid "“%s” Could not be Found"
-#~ msgstr "“%s” Could not be Found"
+#~ msgstr "No “%s”?"
 
 #~ msgid ""
 #~ "Check that you are connected to the internet, and that the address is "
@@ -6771,7 +6771,7 @@ msgstr "_Enable"
 #~ msgstr "Invalid address."
 
 #~ msgid "The address you entered is not valid."
-#~ msgstr "The address you entered is not valid."
+#~ msgstr "No valid address?"
 
 #~ msgid "“%s” Redirected Too Many Times"
 #~ msgstr "“%s” Redirected Too Many Times"
@@ -6827,10 +6827,10 @@ msgstr "_Enable"
 #~ "other than Web browsing."
 
 #~ msgid "Could not Connect to Proxy Server"
-#~ msgstr "Could not Connect to Proxy Server"
+#~ msgstr "No connection to Proxy server?"
 
 #~ msgid "Could not connect to proxy server."
-#~ msgstr "Could not connect to proxy server."
+#~ msgstr "No connection to Proxy server?"
 
 #~ msgid ""
 #~ "Check your proxy server settings. If the connection still fails, there "
@@ -7665,7 +7665,7 @@ msgstr "_Enable"
 #~ msgstr "Empty"
 
 #~ msgid "Ephy"
-#~ msgstr "Epiphany"
+#~ msgstr "Symphony"
 
 #~ msgid ""
 #~ "Bonobo couldn't locate the GNOME_Epiphany_Automation.server file. You can "
@@ -7680,14 +7680,14 @@ msgstr "_Enable"
 #~ "Epiphany can't be used now, due to an unexpected error from Bonobo when "
 #~ "attempting to register the automation server"
 #~ msgstr ""
-#~ "Epiphany can't be used now, due to an unexpected error from Bonobo when "
+#~ "Symphony can't be used now, due to an unexpected error from Bonobo when "
 #~ "attempting to register the automation server"
 
 #~ msgid ""
 #~ "Epiphany can't be used now, due to an unexpected error from Bonobo when "
 #~ "attempting to locate the automation object."
 #~ msgstr ""
-#~ "Epiphany can't be used now, due to an unexpected error from Bonobo when "
+#~ "Symphony can't be used now, due to an unexpected error from Bonobo when "
 #~ "attempting to locate the automation object."
 
 #~ msgid "toolbar style|Icons only"
@@ -7835,7 +7835,7 @@ msgstr "_Enable"
 #~ msgstr "Portuguese"
 
 #~ msgid "Portuguese of Brazil"
-#~ msgstr "Portuguese of Brazil"
+#~ msgstr "To the devs of Epiphany, just call it Brazilian Portugese"
 
 #~ msgid "Romanian"
 #~ msgstr "Romanian"
